@@ -14,7 +14,7 @@ project = 'XQuantiPy'
 copyright = '2023, Sai Charan Vadakapur'
 author = 'Sai Charan Vadakapur'
 
-# -- General configuration ---------------------------------------------------
+# -- General configuration  ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = ["sphinx.ext.napoleon", 'sphinx.ext.todo', 'sphinx.ext.viewcode', 'sphinx.ext.autodoc']
